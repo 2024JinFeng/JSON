@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "emby.bangumi.ca",
+        "mc.vo0.site",
+        "str.vo0.site",
+        "tv.micu.hk",
+        "tv1.micu.hk",
+        "v0.micu.hk",
+        "v1.micu.hk",
+        "v1.uhdnow.com",
+        "v2.micu.hk",
+        "v3.micu.hk",
+        "v4.micu.hk",
+        "v5.micu.hk",
+        "v6.micu.hk",
+        "v7.micu.hk",
+        "v8.micu.hk",
+        "v9.micu.hk"
+      ]
+    }
+  ]
+}

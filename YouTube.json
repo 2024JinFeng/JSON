@@ -1,10 +1,7 @@
 {
+  "version": 1,
   "rules": [
     {
-      "name": "YouTube",
-      "outbound": "currentSelected",
-      "switch": true,
-      "or": true,
       "domain_suffix": [
         "ggpht.cn",
         "ggpht.com",

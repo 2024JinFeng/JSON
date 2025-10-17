@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "cdninstagram.com",
+        "instagr.am",
+        "instagram.com"
+      ],
+      "domain_keyword": [
+        "instagram"
+      ],
+      "domain": [
+        "edge-mqtt.facebook.com",
+        "mqtt-ig-p4.facebook.com",
+        "z-p42-chat-e2ee-ig.facebook.com"
+      ]
+    }
+  ]
+}
